@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Leonardo",
+    "favoriteColor": "Blue",
+    "weaponOfChoice": "Katana",
+    "personality": "Born Leader"
+  },
+  {
+    "name": "Michelangelo",
+    "favoriteColor": "Orange",
+    "weaponOfChoice": "Nunchucks",
+    "personality": "Party Animal"
+  },
+  {
+    "name": "Donatello",
+    "favoriteColor": "Purple",
+    "weaponOfChoice": "Bo Staff",
+    "personality": "The Brains"
+  },
+  {
+    "name": "Raphael",
+    "favoriteColor": "Red",
+    "weaponOfChoice": "Sai",
+    "personality": "The Muscle"
+  }
+]
+
+
+
